@@ -1,2 +1,3 @@
 # odroid-xu3
-Supports the ODORID XU3 board BSP layer in Yocto
+ODORID XU3 BSP layer for YOCTO PROJECT
+
